@@ -10,167 +10,162 @@
   justify-content: center;
 }
 .header {
-    width: 1100px;
-    height: 92.88px;
-    margin: 0 145px;
-    padding: 0 40px;
-    align-items: center;
-    display: flex;
+  width: 1100px;
+  height: 92.88px;
+  margin: 0 145px;
+  padding: 0 40px;
+  align-items: center;
+  display: flex;
 }
 .navbarLeft {
-    width: 826.34px;
-    height: 42.88px;
-    align-items: center;
-    display: flex;
+  width: 826.34px;
+  height: 42.88px;
+  align-items: center;
+  display: flex;
 }
 .positionRelative {
-    position: relative;
+  position: relative;
 }
 .navbarRight {
-    width: 260.52px;
-    height: 60.88px;
-    margin: 0 0 0 13.1484px;
-    display: flex;
-    align-items: center;
+  width: 260.52px;
+  height: 60.88px;
+  margin: 0 0 0 13.1484px;
+  display: flex;
+  align-items: center;
 }
 .navRightExtra {
-    width: 260.52px;
-    height: 50px;
-    display: flex;
-    justify-content: space-between;
-}
-.weatherContainer {
-
+  width: 260.52px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
 }
 .weatherWord {
-    width: 55.05px;
-    height: 20px;
-
+  width: 55.05px;
+  height: 20px;
 }
 .weather {
-    margin: 0px;
-    font-size: 12px;
-    font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .temperature {
-    width: 55.05px;
-    height: 35px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
+  width: 55.05px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 .cloudTemp {
-   font-size: 18px;
-   font-family: Arial, Helvetica, sans-serif;
-   font-weight: 700;
-   margin: 5px 0 0;
-   color: orange;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin: 5px 0 0;
+  color: orange;
 }
 .temp {
-    color: black;
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    margin-top: 5px;
+  color: black;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 5px;
 }
 .zurhaiContainer {
-    height: 55px;
-    width: 62.04px;
-    margin-top: -10px;
+  height: 55px;
+  width: 62.04px;
+  margin-top: -10px;
 }
 .zurhaiWord {
-    width: 62.04px;
-    height: 20px;
+  width: 62.04px;
+  height: 20px;
 }
 .zurhai {
-    font-size: 12px;
-    font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .calendar {
-    width: 62.04px;
-    height: 35px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
+  width: 62.04px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 .calendarImg {
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    color: #2DA2FC;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: #2da2fc;
 }
 .day {
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
 }
 .hanshContainer {
-    height: 50px;
-    width: 83.43px;
-    margin-top: -10px;
+  height: 50px;
+  width: 83.43px;
+  margin-top: -10px;
 }
 .hanshWord {
-    width: 83.43px;
-    height: 20px;
+  width: 83.43px;
+  height: 20px;
 }
 .hansh {
-    font-size: 12px;
-    font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .dollar {
-    width: 83.43px;
-    height: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
+  width: 83.43px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 .dollarImg {
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    color: #2adb00;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: #2adb00;
 }
 .money {
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
 }
 .end {
-    margin-left: 20px;
-    display: flex;
+  margin-left: 20px;
+  display: flex;
 }
 .mainMenuItem {
-    padding: 0 15px;
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    height: 22px;
+  padding: 0 15px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  height: 22px;
 }
 .medee {
-    width: 75.99px;
+  width: 75.99px;
 }
 .bulan {
-    width: 118.41px;
-    display: flex;
+  width: 118.41px;
+  display: flex;
 }
 .uzeh {
-    width: 61px;
+  width: 61px;
 }
 .hevMayg {
-    width: 94.97px;
+  width: 94.97px;
 }
 .english {
-    width: 55.97px;
+  width: 55.97px;
 }
 .magnifyingGlass {
-    height: 20px;
-    width: 20px;
-    padding: 0 15px;
-    margin: -3px 0 0;
+  height: 20px;
+  width: 20px;
+  padding: 0 15px;
+  margin: -3px 0 0;
 }
 .pageContainer {
   height: 1069.58px;
@@ -181,159 +176,231 @@
   justify-content: center;
 }
 .mainPageContainer {
-    height: 1069.58px;
-    width: 1100px;
-    margin: 0 145px;
-    padding: 0 40px;
+  height: 1069.58px;
+  width: 1100px;
+  margin: 0 145px;
+  padding: 0 40px;
 }
 .divv {
-    width: 1100px;
-    height: 1049.58px;
-}.smallBanner {
-    margin-bottom: 5px;
-    width: 1100px;
-    height: 75px;
-
+  width: 1100px;
+  height: 1049.58px;
+}
+.smallBanner {
+  margin-bottom: 5px;
+  width: 1100px;
+  height: 75px;
 }
 .banner {
-    width: 1100px;
-    height: 75px;
+  width: 1100px;
+  height: 75px;
 }
 .newsContainer {
-    margin-top: 15px;
-    width: 1100px;
-    height: 728px;
+  margin-top: 15px;
+  width: 1100px;
+  height: 728px;
 }
 .newsHead {
-    width: 1100px;
-    height: 385px;
+  width: 1100px;
+  height: 385px;
 }
 .secondNewsSection {
-    width: 1100px;
-    height: 283px;
-    margin-top: 30px;
-    padding-bottom: 30px;
+  width: 1100px;
+  height: 283px;
+  margin-top: 30px;
+  padding-bottom: 30px;
 }
 .footer {
-   width: 1100px;
-   height: 231.58px;
-   margin-bottom: 20px;
+  width: 1100px;
+  height: 231.58px;
+  margin-bottom: 20px;
 }
 .footerImg {
-    width: 1100px;
-    height: 231.58px;
+  width: 1100px;
+  height: 231.58px;
 }
 .secondNewsGrids {
-    width: 1115px;
-    height: 283px;
-    padding-right: 0px;
+  width: 1115px;
+  height: 283px;
+  padding-right: 0px;
 }
 .gridFlex {
-    display: flex;
+  display: flex;
 }
 .grid {
-    width: 261.75px;
-    height: 281px;
-    padding-left: 15px;
+  width: 261.75px;
+  height: 281px;
+  padding-left: 15px;
 }
 .gridImg {
-    height: 270px;
-    width: 243.75px;
+  height: 270px;
+  width: 243.75px;
 }
 .firstNewsContainer {
-    height: 283px;
-    width: 263.75px;
+  height: 283px;
+  width: 263.75px;
 }
 .presidentImg {
-    height: 175px;
-    width: 263.75px;
+  height: 175px;
+  width: 263.75px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
 }
 .president {
-    height: 175px;
-    width: 263.75px;
+  height: 175px;
+  width: 263.75px;
+  display: block;
+  transition: 0.4s ease;
+}
+
+.presidentImg:hover .zoom {
+  transform: scale(1.1);
+}
+.presidentOverlayText {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: 0.3s;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.presidentImg:hover .presidentOverlayText {
+  opacity: 1;
 }
 .presidentTitle {
-    height: 66px;
-    width: 263.75px;
-    margin: 10px 0 0;
+  height: 66px;
+  width: 263.75px;
+  margin: 10px 0 0;
 }
 .presidentTitleWords {
-    color: black;
-    height: 66px;
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0px;
-    word-spacing: 5px;
-    font-weight: 600;
+  color: black;
+  height: 66px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  word-spacing: 5px;
+  font-weight: 600;
 }
 .share {
-    color: lightgray;
-    width: 13px;
-    height: 13px;
-
+  color: lightgray;
+  width: 13px;
+  height: 13px;
 }
 .meetingImg {
-    height: 175px;
-    width: 263.75px;
+  height: 175px;
+  width: 263.75px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
 }
 .meeting {
-    height: 175px;
-    width: 263.75px;
+  height: 175px;
+  width: 263.75px;
+  display: block;
+  transition: 0.4s ease;
+}
+.meetingImg:hover .zoom {
+  transform: scale(1.1);
+}
+.presidentOverlayText {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: 0.3s;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.meetingImg:hover .meetingOverlayText {
+  opacity: 1;
 }
 .meetingTitle {
-    height: 66px;
-    width: 263.75px;
-    margin: 10px 0 0;
+  height: 66px;
+  width: 263.75px;
+  margin: 10px 0 0;
 }
 .meetingTitleWords {
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    min-height: 44px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-height: 44px;
 }
 .interviewImg {
-    height: 175px;
-    width: 263.75px;
+  height: 175px;
+  width: 263.75px;
 }
 .interview {
-    height: 175px;
-    width: 263.75px;
+  height: 175px;
+  width: 263.75px;
 }
 .interviewTitle {
-    height: 66px;
-    width: 263.75px;
-    margin: 10px 0 0;
+  height: 66px;
+  width: 263.75px;
+  margin: 10px 0 0;
 }
 .interviewTitleWords {
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
 }
 .shareComment {
-    height: 22px;
-    width: 263.75px;
-    display: flex;
-    gap: 30px;
-
+  height: 22px;
+  width: 263.75px;
+  display: flex;
+  gap: 30px;
 }
 .share {
-    font-size: 13px;
-    color: lightgray;
-    display: flex;
-    gap: 5px;
-    margin-top: 5px;
-    font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: lightgray;
+  display: flex;
+  gap: 5px;
+  margin-top: 5px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .comment {
-    font-size: 13px;
-    color: lightgray;
-    display: flex;
-    gap: 5px;
-    margin-top: 5px;
-    font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: lightgray;
+  display: flex;
+  gap: 5px;
+  margin-top: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.medeeDropdown {
+  height: 412px;
+  width: 467px;
+  position: absolute;
+  left: 220px;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  z-index: 1020;
+  border-radius: 5px;
+  top: 50px;
+  padding: 15px 40px 15px 25px;
+  box-shadow: 0 5px 22px rgba(0, 0, 0, 0.15);
+  display: none;
+}
+.medee:hover .medeeDropdown {
+  display: block;
 }
